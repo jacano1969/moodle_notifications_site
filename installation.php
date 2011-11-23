@@ -25,7 +25,7 @@
 			<p>There are three level of settings for this block: at platform level, course level, and user level. </p>
 
 			<h1>Upgrade notes:</h1>
-			<div>This plugin ha previously know nas notify_changes. The name has been changed to moodle_notifications and some additional features, such as presets, have been added. Please read the UPGRADE.txt file if you are ungrading from previous versions of this plugin.</div>
+			<div>This plugin was previously known as notify_changes. The name has been changed to moodle_notifications and some additional features, such as presets, have been added. Please read the UPGRADE.txt file if you are ungrading from previous versions of this plugin.</div>
 			<br />
 		</div>
 	</div>
