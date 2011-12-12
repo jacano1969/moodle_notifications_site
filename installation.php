@@ -21,11 +21,11 @@
 				<li>Install the block &quot;<span style="color: #000099">Notifications</span>&quot; in the courses for which you want to send notifications</li>
 				<li>Wait for the next cronjob run to receive notification emails.</li>
 			</ol>
-			<p>PLEASE NOTICE THAT SMS notifications require a subscription to a SMS service provider. See the page <a href="howitworks.html">how it works</a> for details. </p>
+			<p>PLEASE NOTICE THAT SMS notifications require a subscription to a SMS service provider. See the page <a href="howitworks.php">how it works</a> for details. </p>
 			<p>There are three level of settings for this block: at platform level, course level, and user level. </p>
 
 			<h1>Upgrade notes:</h1>
-			<div>This plugin was previously known as notify_changes. The name has been changed to moodle_notifications and some additional features, such as presets, have been added. Please read the UPGRADE.txt file if you are ungrading from previous versions of this plugin.</div>
+			<div>This plugin was previously named "notify_changes". The name has been changed to "moodle_notifications" and some additional features, such as presets, have been added. Please read the UPGRADE.txt file if you are upgrading from previous versions of this plugin.</div>
 			<br />
 		</div>
 	</div>
