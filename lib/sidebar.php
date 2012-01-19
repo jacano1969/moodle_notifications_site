@@ -4,8 +4,8 @@
     <div class="sidebar_item">
       <!-- insert your sidebar items here -->
       <h3>Latest News</h3>
-      <h4>Moodle notifications 1.1.0 released </h4>
-      <h5>November 22, 2011</h5>
+      <h4>Moodle notifications 1.1.1 released </h4>
+      <h5>January 19, 2012</h5>
     </div>
     <div class="sidebar_base"></div>
   </div>
