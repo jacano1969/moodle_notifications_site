@@ -5,7 +5,7 @@
       <!-- insert your sidebar items here -->
       <h3>Latest News</h3>
       <h4>Notifications 1.3 released for Moodle 2.x </h4>
-      <h5>Thursday 24 January 2013</h5>
+      <h5>Tuesday 14 February 2013</h5>
     </div>
     <div class="sidebar_base"></div>
   </div>
